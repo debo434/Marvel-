@@ -1,0 +1,10 @@
+.col{
+    position: relative;
+}
+.favIcon{
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+    cursor: pointer;
+    gap: 10px;
+}
